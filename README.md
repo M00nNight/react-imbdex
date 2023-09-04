@@ -1,7 +1,27 @@
-# This my first project that use local storage for data store and I am so excited to share with you guys 
+#IMBDex
 
-## live demo host in git hub pages 
-please check this out https://m00nnight.github.io/react-imbdex.io/  🙏
+## IMBDex is a movie database that you can search for your favorite movie and add it to your favorite list.
+
+### IMBDex is a project that I build for my portfolio and I use React.js for the front-end and I use local storage for data store.
+
+This my first project that use local storage for data store and I am so excited to share with you guys
+
+#demo
+![demo](https://user-images.githubusercontent.com/77468756/126077690-4b6b8b9a-5b9e-4b0a-9b0a-2b0b0b0b0b0b.gif)
+
+please check this out 🙏
+
+# Getting Start with your Machine
+
+## 1. Clone the project
+
+## 2. Install dependencies
+
+    npm install
+
+# 3. Start with local server
+
+    npm start
 
 # Getting Started with Create React App
 
