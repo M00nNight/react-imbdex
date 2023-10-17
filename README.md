@@ -2,8 +2,6 @@
 
 ## IMBDex is a movie database that you can search for your favorite movie and add it to your favorite list.
 
-### IMBDex is a project that I build for my portfolio and I use React.js for the front-end and I use local storage for data store.
-
 This my first project that use local storage for data store and I am so excited to share with you guys
 
 #demo
